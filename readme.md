@@ -61,7 +61,7 @@ To perform a new Censys search and scan:
 
 2. Choose option `1` and enter your Censys API credentials and search query.
 
-3. The tool will fetch data from Censys, save the IPs to `ips.json` and `ips.txt`, and start scanning the IPs. Found AWS credentials will be saved to results/aws_keys.txt
+3. The tool will fetch data from Censys, save the IPs to `ips.json` and `ips.txt`, and start scanning the IPs. Found AWS credentials will be saved to results/aws_keys.txt in a format suitable for testing via [Kingbased's Keychecker](https://github.com/kingbased/keychecker/) (accesskey:secretkey).
 
 To scan an existing list of IPs:
 
