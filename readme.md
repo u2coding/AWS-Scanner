@@ -79,4 +79,7 @@ This tool is intended for educational and testing purposes only. Use it responsi
 
 This project is licensed under the MIT License. 
 
+## Credit
+This project was created and distributed by the kind, intelligent souls at [g/aicg/ - AI Chatbot General](https://boards.4chan.org/g/catalog#s=aicg)
+
 ---
