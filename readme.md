@@ -69,7 +69,7 @@ To scan an existing list of IPs:
 
 2. Choose option `2` and enter the filename (e.g., `ips.txt`).
 
-3. The tool will start scanning the IPs listed in the specified file and print to the 'results' folder. Found AWS credentials will be saved to results/aws_keys.txt
+3. The tool will start scanning the IPs listed in the specified file and print to the 'results' folder. Found AWS credentials will be saved to results/aws_keys.txt in a format suitable for testing via [Kingbased's Keychecker](https://github.com/kingbased/keychecker/).
 
 ## Disclaimer
 
