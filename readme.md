@@ -21,11 +21,11 @@ ACK-Scanner (Automated Censys Knowledge Scanner) is a purely educational and tes
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/ack-scanner.git
+   git clone https://github.com/HackerKnownAsAICG/AWS-Scanner.git
    cd ack-scanner
    ```
    
-   OR download the [.zip file](https://github.com/HackerKnownAsAICG/AWS-Scanner/archive/refs/heads/main.zip).
+   OR download the [.zip file](https://github.com/HackerKnownAsAICG/AWS-Scanner/archive/refs/heads/master.zip).
 
 2. Create a virtual environment and install dependencies:
 
