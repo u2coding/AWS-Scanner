@@ -16,6 +16,8 @@ ACK-Scanner (Automated Censys Knowledge Scanner) is a purely educational and tes
 - `urllib3` library
 - `curses` library (included in the Python standard library)
 
+- Censys API credentials (register [here](https://accounts.censys.io/register) and find credentials [here](https://search.censys.io/account))
+
 ## Installation
 
 1. Clone the repository:
