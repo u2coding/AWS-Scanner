@@ -44,7 +44,7 @@ ACK-Scanner (Automated Censys Knowledge Scanner) is a purely educational and tes
 
 ## Usage
 
-1. Run the tool via setup.bat or setup.sh depending on your system.
+1. Run the tool via ``setup.bat`` or ``setup.sh`` depending on your system.
 
 2. Choose an option:
 
@@ -57,7 +57,7 @@ ACK-Scanner (Automated Censys Knowledge Scanner) is a purely educational and tes
 
 To perform a new Censys search and scan:
 
-1. Run the tool via setup.bat or setup.sh depending on your system.
+1. Run the tool via ``setup.bat`` or ``setup.sh`` depending on your system.
 
 2. Choose option `1` and enter your Censys API credentials and search query.
 
